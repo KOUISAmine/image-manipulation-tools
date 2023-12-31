@@ -45,3 +45,21 @@
 * [HEIC to PNG Tool](https://tools.waytolearnx.com/heic-to-png)
 * [HEIC to GIF Tool](https://tools.waytolearnx.com/heic-to-gif)
 * [HEIC to JPG Tool](https://tools.waytolearnx.com/heic-to-jpg)
+
+## Others
+
+* [SEO Tools](https://github.com/KOUISAmine/seo-tools)
+* [Developer Tools](https://github.com/KOUISAmine/developer-tools)
+* [Network Administrator Tools](https://github.com/KOUISAmine/network-administrator-tools)
+* [Checker Tools](https://github.com/KOUISAmine/checker-tools)
+* [Text Tools](https://github.com/KOUISAmine/text-tools)
+* [Converter Tools](https://github.com/KOUISAmine/converter-tools)
+* [File Converter Tools](https://github.com/KOUISAmine/file-converter-tools)
+* [Generator Tools](https://github.com/KOUISAmine/generator-tools)
+* [PDF Tools](https://github.com/KOUISAmine/pdf-tools)
+* [Mathematical Tools](https://github.com/KOUISAmine/mathematical-tools)
+* [Unit Converter Tools](https://github.com/KOUISAmine/unit-converter-tools)
+* [Time Converter Tools](https://github.com/KOUISAmine/time-converter-tools)
+* [Data Converter Tools](https://github.com/KOUISAmine/data-converter-tools)
+* [Color Converter Tools](https://github.com/KOUISAmine/color-converter-tools)
+* [Online Web Tools](https://github.com/KOUISAmine/online-web-tools)
